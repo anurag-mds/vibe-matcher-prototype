@@ -1,7 +1,11 @@
 # 🎨 Vibe Matcher: AI-Powered Fashion Discovery
 
+<<<<<<< HEAD
 So I built this thing, which is also a part of a task given to me by Nexora, where I was asked to prototype something around AI-based product discovery.
 At the same time, I’d been looking for a small, creative project to explore how “vibes” — like cozy, energetic, or minimalist that lets you search for fashion stuff using actual vibes instead of boring keywords. Like you can type "cozy weekend comfort" or "energetic urban chic" and it actually finds what your looking for. Pretty cool right?
+=======
+So I built this thing that lets you search for fashion stuff using actual vibes instead of boring keywords. Like you can type "cozy weekend comfort" or "energetic urban chic" and it actually finds what your looking for. Pretty cool right?
+>>>>>>> bdc9341 (Updated vibe_matcher notebook with latest changes)
 
 ## ✨ What Makes This Special?
 
